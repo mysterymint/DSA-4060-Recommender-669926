@@ -26,7 +26,6 @@ This project builds a personalized movie recommendation system in Python and pan
 ## Recommendation Results
 Generated five tailored recommendations emphasizing Animation, Adventure, and narrative alignment matching User 27's evaluation profile.
 <img width="562" height="134" alt="image" src="https://github.com/user-attachments/assets/1f8c5e02-b08f-4280-bf7e-3a184a039761" />
-<img width="539" height="124" alt="image" src="https://github.com/user-attachments/assets/1b745c87-1ed8-404a-a5f1-6eaeb3dc6fd0" />
 
 ## Limitation and Suggested Improvement
 - **Limitation:** Relying on a strict threshold ($\ge 4.0$) with limited high ratings restricts broader feature matching[cite: 3].
